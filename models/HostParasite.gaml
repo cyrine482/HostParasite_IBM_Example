@@ -1,6 +1,6 @@
 /**
 * Name: projet
-* Based on the internal empty template. 
+* Based on the internal empty template. This is a simple IBM of the host-parasite system
 * Author: Cyrine
 * Tags: 
 */
